@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# 临时文件
+uploads/
+outputs/
+
+# 日志
+logs/
+*.log
+
+# IDE
+.vscode/
+.idea/
+
+# 系统
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 虚拟环境
+venv/
+env/
+.venv/
+
+# Word 临时文件
+~$*.docx
+~$*.doc
+~$*.ppt
+~$*.pptx
+~$*.pdf
